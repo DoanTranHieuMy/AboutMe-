@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/44abacd0bdb0f7cd05ea467c845d2c2b/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/f342e4c4450bde83a872d7f69f475bc9/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/721c6b1f1c6fa3218c15c4ea0fc22aaa/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/b89fd36ac26684be0ca8b5b7ebc09562/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9e82e3939ec8d409e90e419936a4ae2c/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/6a0b94b4a3e7d4c7843af5ae632ec117/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/213c5b4598065ba4e38b5ffe5f326136/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/cd671eb994419f893976f345a588b901/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/691717dfcf8305c7ae9f27cf555100e7/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/559efbe31eaab3d09dc8d0e924610893/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/631f696553d12a359663bd3274d56374/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9a278a7a66a3115576a1537333c0001a/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/374dc404d6dafbd004900d3dd149036d/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/dd5f10ad9b3494f06f6a4a9006b635f9/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/dfe8d57f96dd35cbf4c9d996593620f4/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/ea196c111e0dd93f29973c4342aac52a/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/8246c7e038bd6b4bb6d59f53614f66e0/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/496a5d4336421eebb4a60d00ca808a9f/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/5519678c2e7f4a89d7633cadcd7601b1/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/d7d38c97f6c0e6798d43c5065d75e953/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/983c9b866900e617499c72772facb58b/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/29b9aadbde02ce14b289ac811d5ed7a3/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/d59c4367d34c96f48635eb1669f50062/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/347097150558b1b8065cb99880eca53a/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/e40fca83f52b3fb234e0707560573f1d/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9b73ae5de3f483d15b1d24c4bb6eabb7/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/2a44c7e6f44995d92996316614093e89/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/f342e4c4450bde83a872d7f69f475bc9/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/f342e4c4450bde83a872d7f69f475bc9/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/ea196c111e0dd93f29973c4342aac52a/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/ea196c111e0dd93f29973c4342aac52a/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/8246c7e038bd6b4bb6d59f53614f66e0/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/8246c7e038bd6b4bb6d59f53614f66e0/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/ea196c111e0dd93f29973c4342aac52a/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:11:9-45
+activity#com.example.aboutme.MainActivity
+ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/44abacd0bdb0f7cd05ea467c845d2c2b/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/44abacd0bdb0f7cd05ea467c845d2c2b/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/f342e4c4450bde83a872d7f69f475bc9/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/f342e4c4450bde83a872d7f69f475bc9/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/721c6b1f1c6fa3218c15c4ea0fc22aaa/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/721c6b1f1c6fa3218c15c4ea0fc22aaa/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/b89fd36ac26684be0ca8b5b7ebc09562/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/b89fd36ac26684be0ca8b5b7ebc09562/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9e82e3939ec8d409e90e419936a4ae2c/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9e82e3939ec8d409e90e419936a4ae2c/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/6a0b94b4a3e7d4c7843af5ae632ec117/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/6a0b94b4a3e7d4c7843af5ae632ec117/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/213c5b4598065ba4e38b5ffe5f326136/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/213c5b4598065ba4e38b5ffe5f326136/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/cd671eb994419f893976f345a588b901/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/cd671eb994419f893976f345a588b901/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/691717dfcf8305c7ae9f27cf555100e7/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/691717dfcf8305c7ae9f27cf555100e7/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/559efbe31eaab3d09dc8d0e924610893/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/559efbe31eaab3d09dc8d0e924610893/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/631f696553d12a359663bd3274d56374/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/631f696553d12a359663bd3274d56374/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9a278a7a66a3115576a1537333c0001a/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9a278a7a66a3115576a1537333c0001a/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/374dc404d6dafbd004900d3dd149036d/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/374dc404d6dafbd004900d3dd149036d/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/dd5f10ad9b3494f06f6a4a9006b635f9/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/dd5f10ad9b3494f06f6a4a9006b635f9/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/dfe8d57f96dd35cbf4c9d996593620f4/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/dfe8d57f96dd35cbf4c9d996593620f4/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/ea196c111e0dd93f29973c4342aac52a/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/ea196c111e0dd93f29973c4342aac52a/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/8246c7e038bd6b4bb6d59f53614f66e0/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/8246c7e038bd6b4bb6d59f53614f66e0/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/496a5d4336421eebb4a60d00ca808a9f/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/496a5d4336421eebb4a60d00ca808a9f/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/5519678c2e7f4a89d7633cadcd7601b1/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/5519678c2e7f4a89d7633cadcd7601b1/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/d7d38c97f6c0e6798d43c5065d75e953/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/d7d38c97f6c0e6798d43c5065d75e953/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/983c9b866900e617499c72772facb58b/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/983c9b866900e617499c72772facb58b/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/29b9aadbde02ce14b289ac811d5ed7a3/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/29b9aadbde02ce14b289ac811d5ed7a3/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/d59c4367d34c96f48635eb1669f50062/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/d59c4367d34c96f48635eb1669f50062/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/347097150558b1b8065cb99880eca53a/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/347097150558b1b8065cb99880eca53a/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/e40fca83f52b3fb234e0707560573f1d/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/e40fca83f52b3fb234e0707560573f1d/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9b73ae5de3f483d15b1d24c4bb6eabb7/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/9b73ae5de3f483d15b1d24c4bb6eabb7/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/2a44c7e6f44995d92996316614093e89/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hieumy/.gradle/caches/transforms-2/files-2.1/2a44c7e6f44995d92996316614093e89/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hieumy/AndroidStudioProjects/AboutMe/app/src/main/AndroidManifest.xml
